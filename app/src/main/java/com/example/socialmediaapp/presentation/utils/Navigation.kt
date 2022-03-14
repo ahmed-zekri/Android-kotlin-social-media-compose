@@ -4,7 +4,7 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.socialmediaapp.presentation.SplashScreen
+import com.example.socialmediaapp.splash.SplashScreen
 
 @Composable
 fun Navigation() {
