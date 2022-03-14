@@ -1,4 +1,4 @@
-package com.example.socialmediaapp.ui.theme
+package com.example.socialmediaapp.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
