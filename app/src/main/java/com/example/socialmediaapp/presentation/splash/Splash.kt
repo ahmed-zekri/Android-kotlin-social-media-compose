@@ -31,6 +31,7 @@ fun SplashScreen(navController: NavController) {
 
 
             }
+            navController.popBackStack()
             navController.navigate(Screen.LoginScreen.route)
         }
         val scale = remember {
